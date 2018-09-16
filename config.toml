@@ -1,4 +1,5 @@
 baseURL = "https://benoitgle.github.io/username.github.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "User stories"
 theme = "hugo-paper"
+disqusShortname = "https-benoitgle-github-io-username-github-io"
